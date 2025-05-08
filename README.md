@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [2383-add-two-integers](https://github.com/tahfimism/leetcode/tree/master/2383-add-two-integers) |
 | [3859-maximum-product-of-two-digits](https://github.com/tahfimism/leetcode/tree/master/3859-maximum-product-of-two-digits) |
 ## Sorting
 |  |
