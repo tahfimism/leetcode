@@ -1,6 +1,6 @@
 void reverseString(char* s, int sSize) {
-    int half = sSize/2;
-    for(int i = 0; i < half; i++)
+    
+    for(int i = 0; i < sSize/2; i++)
     {
         char temp = s[i];
         s[i] = s[sSize-i-1];
