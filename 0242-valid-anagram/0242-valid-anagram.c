@@ -1,8 +1,16 @@
 bool isAnagram(char* s, char* t) {
+
+    // string length
     int slen = strlen(s);
     int tlen = strlen(t);
 
+    // frequencey array
     int freq[26] = {0};
+
+    if (slen != tlen)
+        {
+          return false;
+        }
 
     for(int i = 0; i < slen; i++)
     {
