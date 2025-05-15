@@ -30,6 +30,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tahfimism/leetcode/tree/master/0001-two-sum) |
+| [0387-first-unique-character-in-a-string](https://github.com/tahfimism/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [2215-finding-3-digit-even-numbers](https://github.com/tahfimism/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/tahfimism/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Enumeration
@@ -41,6 +42,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tahfimism/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0344-reverse-string](https://github.com/tahfimism/leetcode/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/tahfimism/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/tahfimism/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Dynamic Programming
 |  |
@@ -49,6 +51,7 @@
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/tahfimism/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/tahfimism/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Two Pointers
 |  |
@@ -60,4 +63,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tahfimism/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/tahfimism/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
