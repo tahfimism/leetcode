@@ -22,6 +22,7 @@
 | [0001-two-sum](https://github.com/tahfimism/leetcode/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/tahfimism/leetcode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/tahfimism/leetcode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/tahfimism/leetcode/tree/master/0283-move-zeroes) |
 | [1293-three-consecutive-odds](https://github.com/tahfimism/leetcode/tree/master/1293-three-consecutive-odds) |
 | [2215-finding-3-digit-even-numbers](https://github.com/tahfimism/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/tahfimism/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -68,6 +69,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tahfimism/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/tahfimism/leetcode/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/tahfimism/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/tahfimism/leetcode/tree/master/0344-reverse-string) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/tahfimism/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## String Matching
