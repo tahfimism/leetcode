@@ -13,6 +13,7 @@
 | ------- |
 | [0242-valid-anagram](https://github.com/tahfimism/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/tahfimism/leetcode/tree/master/0268-missing-number) |
+| [0941-sort-array-by-parity](https://github.com/tahfimism/leetcode/tree/master/0941-sort-array-by-parity) |
 | [2215-finding-3-digit-even-numbers](https://github.com/tahfimism/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/tahfimism/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3859-maximum-product-of-two-digits](https://github.com/tahfimism/leetcode/tree/master/3859-maximum-product-of-two-digits) |
@@ -23,6 +24,7 @@
 | [0035-search-insert-position](https://github.com/tahfimism/leetcode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/tahfimism/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/tahfimism/leetcode/tree/master/0283-move-zeroes) |
+| [0941-sort-array-by-parity](https://github.com/tahfimism/leetcode/tree/master/0941-sort-array-by-parity) |
 | [1293-three-consecutive-odds](https://github.com/tahfimism/leetcode/tree/master/1293-three-consecutive-odds) |
 | [1603-running-sum-of-1d-array](https://github.com/tahfimism/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/tahfimism/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -72,6 +74,7 @@
 | [0125-valid-palindrome](https://github.com/tahfimism/leetcode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/tahfimism/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/tahfimism/leetcode/tree/master/0344-reverse-string) |
+| [0941-sort-array-by-parity](https://github.com/tahfimism/leetcode/tree/master/0941-sort-array-by-parity) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/tahfimism/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## String Matching
 |  |
