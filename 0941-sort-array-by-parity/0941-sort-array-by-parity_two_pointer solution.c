@@ -3,7 +3,7 @@
  */
 int* sortArrayByParity(int* nums, int numsSize, int* returnSize) {
     
-    // go thru each int, if its even - move it to front, if its odd - put it into another array
+    // go thru each int, if its even - move it to front, if its odd - put it to last;
     int evenpos = 0;
     int oddpos = numsSize-1;
 
