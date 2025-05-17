@@ -1,26 +1,34 @@
+void swap(int *a, int *b);
 void sortColors(int* nums, int numsSize) {
     
-    int nred = 0;
-    int nwhite = 0;
-    int nblue = 0;
+    int low = 0;
+    int mid = 0;
+    int high = numsSize-1;
 
-    for(int i = 0; i < numsSize; i++)
+    while(mid <= high)
     {
-        if(nums[i] == 0)
+        if(nums[mid] == 0)
         {
-            nums[nred++] = 0;
+            swap(&nums[mid], &nums[low]);
+            low++;
+            mid++;
         }
-        else if(nums[i] == 1) nwhite++;
-        else nblue++;
+        else if(nums[mid] == 1)
+        {
+            mid++;
+        }
+        else{
+            swap(&nums[mid], &nums[high]);
+            high--;
+        }
     }
 
-    for (int i = 0; i < nwhite; i++)
-    {
-        nums[nred++] = 1;
-    }
 
-    for (int i = 0; i < nblue; i++)
-    {
-        nums[nred++] = 2;
-    }
+}
+
+void swap(int *a, int *b)
+{
+    int temp = *a;
+    *a = *b;
+    *b = temp;
 }
