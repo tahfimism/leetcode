@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/tahfimism/leetcode/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/tahfimism/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/tahfimism/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/tahfimism/leetcode/tree/master/0268-missing-number) |
 | [0941-sort-array-by-parity](https://github.com/tahfimism/leetcode/tree/master/0941-sort-array-by-parity) |
@@ -25,6 +26,7 @@
 | [0001-two-sum](https://github.com/tahfimism/leetcode/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/tahfimism/leetcode/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/tahfimism/leetcode/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/tahfimism/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/tahfimism/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/tahfimism/leetcode/tree/master/0283-move-zeroes) |
 | [0941-sort-array-by-parity](https://github.com/tahfimism/leetcode/tree/master/0941-sort-array-by-parity) |
@@ -43,6 +45,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tahfimism/leetcode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/tahfimism/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/tahfimism/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/tahfimism/leetcode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/tahfimism/leetcode/tree/master/0387-first-unique-character-in-a-string) |
