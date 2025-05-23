@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/tahfimism/leetcode/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/tahfimism/leetcode/tree/master/0268-missing-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/tahfimism/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2383-add-two-integers](https://github.com/tahfimism/leetcode/tree/master/2383-add-two-integers) |
@@ -60,6 +61,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tahfimism/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/tahfimism/leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/tahfimism/leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/tahfimism/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/tahfimism/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/tahfimism/leetcode/tree/master/0344-reverse-string) |
@@ -95,9 +97,14 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/tahfimism/leetcode/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/tahfimism/leetcode/tree/master/0268-missing-number) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/tahfimism/leetcode/tree/master/1603-running-sum-of-1d-array) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/tahfimism/leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
