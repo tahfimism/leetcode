@@ -7,9 +7,7 @@ class Solution:
                 count += 1
                 if count > max:
                     max = count
-            if i == 0:
-                if count > max:
-                    max = count
+            else:
                 count = 0
         return max
         
