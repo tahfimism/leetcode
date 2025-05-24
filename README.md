@@ -18,6 +18,7 @@
 | [0242-valid-anagram](https://github.com/tahfimism/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/tahfimism/leetcode/tree/master/0268-missing-number) |
 | [0941-sort-array-by-parity](https://github.com/tahfimism/leetcode/tree/master/0941-sort-array-by-parity) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/tahfimism/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/tahfimism/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/tahfimism/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3859-maximum-product-of-two-digits](https://github.com/tahfimism/leetcode/tree/master/3859-maximum-product-of-two-digits) |
@@ -34,6 +35,7 @@
 | [1293-three-consecutive-odds](https://github.com/tahfimism/leetcode/tree/master/1293-three-consecutive-odds) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/tahfimism/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1603-running-sum-of-1d-array](https://github.com/tahfimism/leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/tahfimism/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/tahfimism/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/tahfimism/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3194-find-words-containing-character](https://github.com/tahfimism/leetcode/tree/master/3194-find-words-containing-character) |
@@ -42,6 +44,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/tahfimism/leetcode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/tahfimism/leetcode/tree/master/0268-missing-number) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/tahfimism/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/tahfimism/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
 |  |
