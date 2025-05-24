@@ -36,6 +36,7 @@
 | [1603-running-sum-of-1d-array](https://github.com/tahfimism/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/tahfimism/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/tahfimism/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3194-find-words-containing-character](https://github.com/tahfimism/leetcode/tree/master/3194-find-words-containing-character) |
 ## Binary Search
 |  |
 | ------- |
@@ -66,6 +67,7 @@
 | [0242-valid-anagram](https://github.com/tahfimism/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/tahfimism/leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/tahfimism/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [3194-find-words-containing-character](https://github.com/tahfimism/leetcode/tree/master/3194-find-words-containing-character) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/tahfimism/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Dynamic Programming
 |  |
