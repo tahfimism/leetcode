@@ -1,8 +1,4 @@
 class Solution:
     def isPalindrome(self, x: int) -> bool:
         x = str(x)
-        n = len(x)
-        for i in range(round(n/2)):
-            if x[i] != x[n-1-i]:
-                return False
-        return True
+        return True if x == x[::-1] else False
