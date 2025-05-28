@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/tahfimism/leetcode/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/tahfimism/leetcode/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/tahfimism/leetcode/tree/master/0268-missing-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/tahfimism/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
