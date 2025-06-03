@@ -65,6 +65,7 @@
 | [0268-missing-number](https://github.com/tahfimism/leetcode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/tahfimism/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/tahfimism/leetcode/tree/master/0409-longest-palindrome) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/tahfimism/leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2215-finding-3-digit-even-numbers](https://github.com/tahfimism/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/tahfimism/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Enumeration
@@ -82,6 +83,7 @@
 | [0344-reverse-string](https://github.com/tahfimism/leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/tahfimism/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/tahfimism/leetcode/tree/master/0409-longest-palindrome) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/tahfimism/leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3194-find-words-containing-character](https://github.com/tahfimism/leetcode/tree/master/3194-find-words-containing-character) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/tahfimism/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Dynamic Programming
@@ -92,6 +94,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/tahfimism/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/tahfimism/leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/tahfimism/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Two Pointers
 |  |
