@@ -9,6 +9,7 @@
 | [0268-missing-number](https://github.com/tahfimism/leetcode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tahfimism/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/tahfimism/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/tahfimism/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2383-add-two-integers](https://github.com/tahfimism/leetcode/tree/master/2383-add-two-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/tahfimism/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3859-maximum-product-of-two-digits](https://github.com/tahfimism/leetcode/tree/master/3859-maximum-product-of-two-digits) |
@@ -50,6 +51,7 @@
 | [1293-three-consecutive-odds](https://github.com/tahfimism/leetcode/tree/master/1293-three-consecutive-odds) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/tahfimism/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1603-running-sum-of-1d-array](https://github.com/tahfimism/leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/tahfimism/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/tahfimism/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/tahfimism/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2486-most-frequent-even-element](https://github.com/tahfimism/leetcode/tree/master/2486-most-frequent-even-element) |
