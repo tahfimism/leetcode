@@ -16,6 +16,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/tahfimism/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/tahfimism/leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/tahfimism/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/tahfimism/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/tahfimism/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/tahfimism/leetcode/tree/master/0268-missing-number) |
@@ -35,6 +36,7 @@
 | [0035-search-insert-position](https://github.com/tahfimism/leetcode/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/tahfimism/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/tahfimism/leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/tahfimism/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/tahfimism/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/tahfimism/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/tahfimism/leetcode/tree/master/0283-move-zeroes) |
@@ -60,6 +62,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tahfimism/leetcode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/tahfimism/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/tahfimism/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/tahfimism/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/tahfimism/leetcode/tree/master/0268-missing-number) |
@@ -93,6 +96,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/tahfimism/leetcode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/tahfimism/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/tahfimism/leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/tahfimism/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -135,4 +139,8 @@
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/tahfimism/leetcode/tree/master/0409-longest-palindrome) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/tahfimism/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
