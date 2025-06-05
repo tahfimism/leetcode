@@ -7,6 +7,7 @@
 | [0009-palindrome-number](https://github.com/tahfimism/leetcode/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/tahfimism/leetcode/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/tahfimism/leetcode/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/tahfimism/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/tahfimism/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2383-add-two-integers](https://github.com/tahfimism/leetcode/tree/master/2383-add-two-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/tahfimism/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -21,6 +22,7 @@
 | [0242-valid-anagram](https://github.com/tahfimism/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/tahfimism/leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/tahfimism/leetcode/tree/master/0414-third-maximum-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/tahfimism/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0941-sort-array-by-parity](https://github.com/tahfimism/leetcode/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/tahfimism/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/tahfimism/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -42,6 +44,7 @@
 | [0283-move-zeroes](https://github.com/tahfimism/leetcode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/tahfimism/leetcode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/tahfimism/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0628-maximum-product-of-three-numbers](https://github.com/tahfimism/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0941-sort-array-by-parity](https://github.com/tahfimism/leetcode/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/tahfimism/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1293-three-consecutive-odds](https://github.com/tahfimism/leetcode/tree/master/1293-three-consecutive-odds) |
