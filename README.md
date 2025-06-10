@@ -78,6 +78,7 @@
 | [2215-finding-3-digit-even-numbers](https://github.com/tahfimism/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2486-most-frequent-even-element](https://github.com/tahfimism/leetcode/tree/master/2486-most-frequent-even-element) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/tahfimism/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/tahfimism/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -96,6 +97,7 @@
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/tahfimism/leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3194-find-words-containing-character](https://github.com/tahfimism/leetcode/tree/master/3194-find-words-containing-character) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/tahfimism/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/tahfimism/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -108,6 +110,7 @@
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/tahfimism/leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2486-most-frequent-even-element](https://github.com/tahfimism/leetcode/tree/master/2486-most-frequent-even-element) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/tahfimism/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/tahfimism/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Two Pointers
 |  |
 | ------- |
