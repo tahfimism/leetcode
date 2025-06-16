@@ -3,8 +3,6 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        l = len(nums)
-        k = k % l
-        nums.reverse()
-        nums[k:] = reversed(nums[k:]) 
-        nums[:k] = reversed(nums[:k]) 
+        k = k % len(nums)
+        for _ in range(k):
+            nums.insert(0,nums.pop(len(nums)-1))     
