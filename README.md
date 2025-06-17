@@ -100,6 +100,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/tahfimism/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/tahfimism/leetcode/tree/master/0409-longest-palindrome) |
 | [0812-rotate-string](https://github.com/tahfimism/leetcode/tree/master/0812-rotate-string) |
+| [1894-merge-strings-alternately](https://github.com/tahfimism/leetcode/tree/master/1894-merge-strings-alternately) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/tahfimism/leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3194-find-words-containing-character](https://github.com/tahfimism/leetcode/tree/master/3194-find-words-containing-character) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/tahfimism/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -131,6 +132,7 @@
 | [0344-reverse-string](https://github.com/tahfimism/leetcode/tree/master/0344-reverse-string) |
 | [0941-sort-array-by-parity](https://github.com/tahfimism/leetcode/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/tahfimism/leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1894-merge-strings-alternately](https://github.com/tahfimism/leetcode/tree/master/1894-merge-strings-alternately) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/tahfimism/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## String Matching
 |  |
