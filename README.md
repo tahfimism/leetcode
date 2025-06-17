@@ -99,6 +99,7 @@
 | [0344-reverse-string](https://github.com/tahfimism/leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/tahfimism/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/tahfimism/leetcode/tree/master/0409-longest-palindrome) |
+| [0742-to-lower-case](https://github.com/tahfimism/leetcode/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/tahfimism/leetcode/tree/master/0812-rotate-string) |
 | [1894-merge-strings-alternately](https://github.com/tahfimism/leetcode/tree/master/1894-merge-strings-alternately) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/tahfimism/leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
