@@ -15,6 +15,7 @@
 | [2383-add-two-integers](https://github.com/tahfimism/leetcode/tree/master/2383-add-two-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/tahfimism/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3859-maximum-product-of-two-digits](https://github.com/tahfimism/leetcode/tree/master/3859-maximum-product-of-two-digits) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/tahfimism/leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Sorting
 |  |
 | ------- |
@@ -62,6 +63,7 @@
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/tahfimism/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3194-find-words-containing-character](https://github.com/tahfimism/leetcode/tree/master/3194-find-words-containing-character) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/tahfimism/leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/tahfimism/leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Binary Search
 |  |
 | ------- |
@@ -84,6 +86,7 @@
 | [2486-most-frequent-even-element](https://github.com/tahfimism/leetcode/tree/master/2486-most-frequent-even-element) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/tahfimism/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/tahfimism/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/tahfimism/leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Enumeration
 |  |
 | ------- |
@@ -119,6 +122,7 @@
 | [2486-most-frequent-even-element](https://github.com/tahfimism/leetcode/tree/master/2486-most-frequent-even-element) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/tahfimism/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/tahfimism/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/tahfimism/leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Two Pointers
 |  |
 | ------- |
@@ -169,4 +173,8 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/tahfimism/leetcode/tree/master/0048-rotate-image) |
+## Number Theory
+|  |
+| ------- |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/tahfimism/leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 <!---LeetCode Topics End-->
